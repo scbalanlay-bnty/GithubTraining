@@ -1,10 +1,12 @@
-### Activity 1: Your First Git Repository & Proper Git Workflow
+# Hands-on Activities 1/3
+
+## Activity 1: Your First Git Repository & Proper Git Workflow
 
 **Objective**: Master the full **local-to-remote workflow** by initializing a local repository, tracking your **PHP project** with Git, and pushing it to GitHub for remote storage. 🚀
 
 ---
 
-#### Step 1: Initialize the Local Repository
+### Step 1: Initialize the Local Repository
 
 Git must be set up in your project folder to track changes.
 
@@ -24,7 +26,7 @@ git init
 
 ---
 
-#### Step 2: Create and Modify PHP Files
+### Step 2: Create and Modify PHP Files
 
 You need content to track before committing.
 
@@ -39,7 +41,7 @@ README.md
 
 ---
 
-#### Step 3: Stage Your Changes
+### Step 3: Stage Your Changes
 
 Select which files will be included in your next snapshot.
 
@@ -55,7 +57,7 @@ git add .
 
 ---
 
-#### Step 4: Commit Your Changes
+### Step 4: Commit Your Changes
 
 A commit is a **permanent snapshot** of your project at a specific point.
 
@@ -69,7 +71,7 @@ git commit -m "Initial commit: Set up PHP project structure"
 
 ---
 
-#### Step 5: Create a Remote Repository on GitHub
+### Step 5: Create a Remote Repository on GitHub
 
 Prepare a destination for your code online.
 
@@ -80,7 +82,7 @@ Prepare a destination for your code online.
 
 ---
 
-#### Step 6: Connect Local to Remote
+### Step 6: Connect Local to Remote
 
 Link your local project to GitHub.
 
@@ -94,7 +96,7 @@ git remote add origin <your-repository-URL>
 
 ---
 
-#### Step 7: Push to GitHub
+### Step 7: Push to GitHub
 
 Upload your local commits to GitHub.
 
