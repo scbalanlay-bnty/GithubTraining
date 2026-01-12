@@ -10,7 +10,7 @@
 
 Download a copy of the existing project to your local machine instead of starting from scratch. Navigate into the newly created folder.
 
-```
+```bash
 git clone https://github.com/scbalanlay-bnty/GithubTraining.git
 cd GithubTraining
 ```
@@ -23,7 +23,7 @@ This creates a local directory already linked to the remote repository on GitHub
 
 To keep the `main` branch stable, always perform new work on a separate branch.
 
-```
+```bash
 git checkout -b feature/add-php-util
 ```
 
@@ -35,7 +35,7 @@ The `-b` flag both creates the branch and moves your working pointer to it.
 
 Work on your PHP utility files within this isolated branch. Create a new file named `util.php`, stage your changes, and commit them.
 
-```
+```bash
 git add .
 git commit -m "Add new util.php for general utility functions"
 ```
@@ -48,7 +48,7 @@ These changes exist only on your feature branch and do not affect `main` yet.
 
 Return to your primary branch before merging.
 
-```
+```bash
 git checkout main
 ```
 
@@ -60,7 +60,7 @@ Notice that `util.php` is not visible here; it remains safely stored on the feat
 
 Combine your feature branch work into the main branch.
 
-```
+```bash
 git merge feature/add-php-util
 ```
 
@@ -72,6 +72,6 @@ Your `main` branch is now updated with the utility code developed in the feature
 
 After merging, delete the temporary branch to keep your repository organized.
 
-```
+```bash
 git branch -d feature/add-php-util
 ```

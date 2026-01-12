@@ -10,7 +10,7 @@ Before starting, make sure your local development is complete and your work is a
 * All changes for your feature (e.g., `util.php`) must be committed to your local feature branch.
 * Your feature branch must be uploaded to GitHub so it is visible to the team:
 
-```
+```bash
 git push origin feature/add-php-util
 ```
 
@@ -54,7 +54,7 @@ Then click **"Delete branch"** to keep the remote repository organized.
 
 Update your local computer to match the remote `main` branch:
 
-```
+```bash
 git checkout main
 git pull origin main
 ```
