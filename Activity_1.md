@@ -48,7 +48,7 @@ Select which files will be included in your next snapshot.
 * **Command**:
 
 ```bash
-git add .
+git add . 
 ```
 
 > The `.` stages **all files in the current folder**.
@@ -130,3 +130,6 @@ git push
 ```
 
 This keeps your workflow **simple and consistent**.
+
+
+**sample repo**.
