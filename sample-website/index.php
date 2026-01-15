@@ -5,13 +5,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Sample PHP Page</title>
+    <title>Samuel's PHP Page</title>
 
     <style>
         body {
             margin: 0;
             font-family: Arial, Helvetica, sans-serif;
-            background-color: #f5f5f5;
+            background-color: #5553b9ff;
         }
 
         /* Navigation bar */
