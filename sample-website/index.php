@@ -48,7 +48,7 @@
         }
 
         .content ul {
-            background-color: #ffffff;
+            background-color: #ffff11;
             padding: 20px;
             border-radius: 5px;
             width: fit-content;
@@ -73,6 +73,10 @@
             <li>First item</li>
             <li>Second item</li>
             <li>Third item</li>
+            <li>Fourth item</li> <!--ngc-->
+            <li>Fifth item</li>
+            <li>Sixth item</li> <!--ngc-->
+            <li>Seventh item</li> <!--ngc-->
         </ul>
     </div>
 
