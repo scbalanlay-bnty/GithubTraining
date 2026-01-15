@@ -11,7 +11,7 @@
         body {
             margin: 0;
             font-family: Arial, Helvetica, sans-serif;
-            background-color: #b1aaaa;
+            background-color: #d6d6dbff;
         }
 
         /* Navigation bar */
@@ -35,6 +35,7 @@
             display: block;
             padding: 14px 20px;
             color: #ffffff;
+            text-decoration: none;
         }
 
         .navbar a:hover {
@@ -44,13 +45,12 @@
         /* Page content */
         .content {
             padding: 20px;
-
         }
 
         .content ul {
-            background-color: #fff111;
-            padding: 30px;
-            border-radius: 10px;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 5px;
             width: fit-content;
         }
     </style>
