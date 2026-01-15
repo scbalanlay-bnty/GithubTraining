@@ -68,7 +68,7 @@
 
     <!-- Content -->
     <div class="content">
-        <h2>Sample Unordered List</h2>
+        <h2>Sample Ordered List</h2>
         <ul>
             <li>First item</li>
             <li>Second item</li>
