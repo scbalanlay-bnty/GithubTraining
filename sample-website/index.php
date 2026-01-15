@@ -5,13 +5,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Samuel's PHP Page</title>
+    <title>Sample PHP Page</title>
 
     <style>
         body {
             margin: 0;
             font-family: Arial, Helvetica, sans-serif;
-            background-color: #5553b9ff;
+            background-color: #d6d6dbff;
         }
 
         /* Navigation bar */
@@ -68,11 +68,13 @@
 
     <!-- Content -->
     <div class="content">
-        <h2>Sample Unordered List</h2>
+        <h2>Sample Ordered List</h2>
         <ul>
             <li>First item</li>
             <li>Second item</li>
             <li>Third item</li>
+            <li>Fourth item</li>
+            <li>Fifth item</li>
         </ul>
     </div>
 
