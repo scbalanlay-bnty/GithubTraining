@@ -77,6 +77,12 @@
             <li>Fifth item</li>
             <li>Sixth item</li>
         </ul>
+        <h2>Sample Ordered List 2.0</h2>
+        <ul>
+            <li>1st item</li>
+            <li>2nd item</li>
+            <li>3rd item</li>
+        </ul>
     </div>
 
 </body>
